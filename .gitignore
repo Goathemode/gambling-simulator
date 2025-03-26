@@ -1,0 +1,16 @@
+# C++
+*.o
+*.so
+*.a
+*.out
+*.exe
+build/
+
+# Web
+node_modules/
+dist/
+*.log
+
+# IDE
+.vscode/
+.idea/
